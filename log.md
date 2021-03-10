@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 07, 2021 
+### Day 0 of 100: March 07, 2021 
 
 **Today's Progress**: HTML basico , HTML 5 
 
@@ -8,7 +8,7 @@
 
 **Link to work:**: https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5
 
-### Day 1: March 08, 2021 
+### Day 1 of 100: March 08, 2021 
 
 **Today's Progress**: Basic CSS, Applied Visual Design
 
@@ -16,10 +16,18 @@
 
 **Link to work:**: https://www.freecodecamp.org/learn/responsive-web-design/#basic-css, https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design
 
-### Day 2: March 09, 2021 
+### Day 2 of 100: March 09, 2021 
 
 **Today's Progress**: Start of my first project in HTML, CSS and JavaScript
 
 **Thoughts:** My first project will be a responsive website made with HTML, CSS and JavaScript that will serve as my portfolio, as it will be where I will display all my next projects. I created the structure of the files and imported the necessary fonts and images
+
+**Link to work:**: https://github.com/kleison451/portifolio.git
+
+### Day 3 of 100: March 10, 2021 
+
+**Today's Progress**: header and sidebar
+
+**Thoughts:** header and sidebar functionality added to the project.
 
 **Link to work:**: https://github.com/kleison451/portifolio.git
